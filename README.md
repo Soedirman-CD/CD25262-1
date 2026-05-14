@@ -12,9 +12,7 @@
 
 ## Project Description
 Proyek ini bertujuan untuk merancang dan mengimplementasikan sistem pengisian daya powerbank menggunakan sumber energi matahari sebagai energi terbarukan. Sistem dirancang agar mampu mengubah energi cahaya matahari menjadi energi listrik yang kemudian digunakan untuk mengisi baterai powerbank secara efisien dan aman.
-
 Pada implementasinya, sistem memanfaatkan panel surya sebagai sumber utama energi, modul pengatur pengisian daya (solar charge controller), baterai penyimpanan, serta rangkaian pendukung lainnya untuk menjaga kestabilan tegangan dan arus pengisian. Selain itu, sistem juga dirancang agar portable, efisien, dan dapat digunakan sebagai solusi alternatif pengisian daya pada kondisi minim akses listrik.
-
 Melalui proyek ini diharapkan dapat diperoleh pemahaman mengenai pemanfaatan energi terbarukan, manajemen daya baterai, serta implementasi sistem elektronika daya pada aplikasi nyata.
 
 
