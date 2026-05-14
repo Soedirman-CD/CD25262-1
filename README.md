@@ -8,7 +8,7 @@
 3. Aliya Karunia Putri - H1A023111
 
 ### Project Title
-**PERANCANGAN DAN IMPLEMENTASI SISTEM PENGISIAN DAYA POWERBANK MENGGUNAKAN ENERGI MATAHARI**
+<p align="center">**PERANCANGAN DAN IMPLEMENTASI SISTEM PENGISIAN DAYA POWERBANK MENGGUNAKAN ENERGI MATAHARI**</p>
 
 ### Project Description
 Proyek ini bertujuan untuk merancang dan mengimplementasikan sistem pengisian daya powerbank menggunakan sumber energi matahari sebagai energi terbarukan. Sistem dirancang agar mampu mengubah energi cahaya matahari menjadi energi listrik yang kemudian digunakan untuk mengisi baterai powerbank secara efisien dan aman.
