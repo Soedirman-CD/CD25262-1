@@ -7,7 +7,6 @@
 2. Sinung WIjoyo Ndaru - H1A023064  
 3. Dimas Raihan Anhar - H1A023076  
 
----
 ## Project Title
 ## PERANCANGAN DAN IMPLEMENTASI SISTEM PENGISIAN DAYA POWERBANK MENGGUNAKAN ENERGI MATAHARI
 
@@ -18,14 +17,12 @@ Pada implementasinya, sistem memanfaatkan panel surya sebagai sumber utama energ
 
 Melalui proyek ini diharapkan dapat diperoleh pemahaman mengenai pemanfaatan energi terbarukan, manajemen daya baterai, serta implementasi sistem elektronika daya pada aplikasi nyata.
 
----
 
 ## 
 - Merancang sistem pengisian daya powerbank berbasis energi matahari.
 - Mengimplementasikan sistem pengisian daya yang efisien dan aman.
 - Mengoptimalkan pemanfaatan energi terbarukan sebagai sumber daya alternatif.
 
----
 
 ## Components Used
 - Solar Panel 
