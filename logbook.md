@@ -23,7 +23,7 @@ Anggota
 
 #### Yang akan dilakukan
 
-- [ ] Membuat prototype pengecasan dari baterai menuju QC Module, PIC: @SinungWn
+- [ ] Membuat prototype pengecasan dari baterai menuju QC Module, PIC: @Daffaarya51
 
 #### Catatan
 
