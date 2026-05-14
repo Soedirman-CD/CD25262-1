@@ -1,22 +1,22 @@
-## CAPSTONE DESIGN 2026
+# CAPSTONE DESIGN 2026
 
 ## Kelompok 1 - 3 Naga
 
 ### Members
-1. Daffa Arya Riovaldo - H1A023081  
-2. Sinung WIjoyo Ndaru - H1A023064  
-3. Dimas Raihan Anhar - H1A023076  
+1. Gunady Sidik - H1A023004
+2. Dika Aditya Saputra - H1A023088
+3. Aliya Karunia Putri - H1A023111
 
-## Project Title
-## PERANCANGAN DAN IMPLEMENTASI SISTEM PENGISIAN DAYA POWERBANK MENGGUNAKAN ENERGI MATAHARI
+### Project Title
+**PERANCANGAN DAN IMPLEMENTASI SISTEM PENGISIAN DAYA POWERBANK MENGGUNAKAN ENERGI MATAHARI**
 
-## Project Description
+### Project Description
 Proyek ini bertujuan untuk merancang dan mengimplementasikan sistem pengisian daya powerbank menggunakan sumber energi matahari sebagai energi terbarukan. Sistem dirancang agar mampu mengubah energi cahaya matahari menjadi energi listrik yang kemudian digunakan untuk mengisi baterai powerbank secara efisien dan aman.
 Pada implementasinya, sistem memanfaatkan panel surya sebagai sumber utama energi, modul pengatur pengisian daya (solar charge controller), baterai penyimpanan, serta rangkaian pendukung lainnya untuk menjaga kestabilan tegangan dan arus pengisian. Selain itu, sistem juga dirancang agar portable, efisien, dan dapat digunakan sebagai solusi alternatif pengisian daya pada kondisi minim akses listrik.
 Melalui proyek ini diharapkan dapat diperoleh pemahaman mengenai pemanfaatan energi terbarukan, manajemen daya baterai, serta implementasi sistem elektronika daya pada aplikasi nyata.
 
 
-## 
+## Our Goals
 - Merancang sistem pengisian daya powerbank berbasis energi matahari.
 - Mengimplementasikan sistem pengisian daya yang efisien dan aman.
 - Mengoptimalkan pemanfaatan energi terbarukan sebagai sumber daya alternatif.
