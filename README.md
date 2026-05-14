@@ -3,9 +3,9 @@
 ## Kelompok 1 - 3 Naga
 
 ### Members
-1. Gunady Sidik - H1A023004
-2. Dika Aditya Saputra - H1A023088
-3. Aliya Karunia Putri - H1A023111
+1. Daffa Arya Riovaldo - H1A023051
+2. Sinung Wijoyo Ndaru - H1A023064
+3. Dimas Raihan Anhar - H1A023076
 
 ### Project Title
 <p align="center">PERANCANGAN DAN IMPLEMENTASI SISTEM PENGISIAN DAYA POWERBANK MENGGUNAKAN ENERGI MATAHARI</p>
