@@ -1,6 +1,6 @@
 # CAPSTONE DESIGN 2026
 
-### Kelompok 1 - 3 Naga
+### Kelompok 1 - Tiga Naga
 
 ### Members
 1. Daffa Arya Riovaldo - H1A023051
