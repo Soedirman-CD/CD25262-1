@@ -1,4 +1,4 @@
-## Logbook Kelompok X
+## Logbook Kelompok 1
 
 Mata kuliah: Capstone Design
 
@@ -6,14 +6,16 @@ Semester: Gasal 2025/2026
 
 Anggota
 
-1. Mahasiswa: @mahasiswa
-2. Mahasiswa @mahasiswa
+1. Mahasiswa: @Daffaarya51
+2. Mahasiswa: @SinungWn
+3. Mahasiswa: @DimRaihan
 
-### 28 Okt 2025
+### 30 April 2026
 
 #### Yang sudah dilakukan
 
-- Belum ada :sweat_smile:
+- Merancang Baterai Li-Ion 18650 6800mAh sebanyak 6 buah untuk membuat konfigurasi 3S2P
+- Menambah pengaman baterai yaitu BMS 3S 40A
 
 #### Masalah yang dihadapi
 
@@ -21,57 +23,53 @@ Anggota
 
 #### Yang akan dilakukan
 
-- [ ] Mendaftar apa saja yang akan dilakukan, PIC: @mahasiswa
+- [ ] Membuat prototype pengecasan dari baterai menuju QC Module, PIC: @SinungWn
 
 #### Catatan
 
-- Perlu baca kembali dokumen desain
-- Lihat detil untuk masing-masing komponen desain
+- Baterai perlu diamplas dulu atasnya agar timah menempel dengan optimal
+- Tidak boleh lama lama menempelkan solder pada ujung kutub baterai
 
-### 04 Nov 2025
+### 7 Mei 2026
 
 #### Yang sudah dilakukan
 
-- Memasang kabel USB ke mikrokontroler untuk cek deteksi perangkat
-- Mencari pustaka untuk mengambil gambar via webcam
+- Wiring untuk QC Module dan Baterai yang dilengkapi BMS untuk testing charge masuk atau tidak ke beban
+- Beban dapat dicas dengan aman dari QC Module yang dihubungkan ke baterai
 
 #### Masalah yang dihadapi
 
-- Kabel USB rusak
-- Program pengambil gambar tidak dapat dikompilasi
+- MPPT CN3791 hanya bisa mengecas baterai 1S, sedangkan baterai projek ini adalah 3S
 
 #### Yang akan dilakukan
 
-- [ ] Membeli kabel USB di toko sebelah, PIC: @ahmad
-- [ ] Mencari solusi masalah kompilasi program pengambil gambar, PIC: @mahasiswa
+- [ ] Membeli MPPT di Elcons Ware, PIC: @SinungWn
 
 #### Catatan
 
-- Kabel USB 2.0, bukan 1.0
-- Mungkin masalah kompilasi adalah versi pustaka A lama
+- Pin Out dari modul apapun tidak boleh dihubungkan ke P+ dan P- dari BMS
+- Selain memverifikasi tegangan dan arus dari modul, perlu diperhatikan konfigurasi juga terutama jika ada Seri dan Pararel seperti halnya BMS
 
-### 11 Nov 2025
+### 10 Mei 2026
 
 #### Yang sudah dilakukan
 
-- Membeli kabel USB 2.0 di toko yang satunya
-- Mengkompilasi program pengambil gambar dan berhasil
-- Mengkompilasi satu fungsi untuk program kontroler
+- Wiring Solar Panel 2Wp secara seri untuk mendapatkan Tegangan 24V
+- Menghubungkan Solar Panel dan Powerbank (Baterai 3S2P) melalui MPPT 10A
 
 #### Masalah yang dihadapi
 
-- Fungsi C pada program kontroler membutuhkan pustaka Z
-- Program pengambil gambar bekerja tapi putus-putus
+- Solar Panel yang ditempelkan ke SCC tidak maksimal karena langit agak mendung dan tegangan tidak maksimal
+- Tetap mengecas, tetapi baterai malah berkurang (sepertinya layar MPPT menyedot Daya)
 
 #### Yang akan dilakukan
 
-- [ ] Mengunduh pustaka Z dan mengkompilasi kembali, PIC: @yoda
-- [ ] Mencari solusi gambar putus-putus, PIC: @ahmad
+- [ ] Menunggu Hari cerah untuk mencoba ulang Solar Panel
+- [ ] Membiarkan Solar panel di sebelah kaca agar tetap mengecas baterai walaupun ditinggal, PIC: @SinungWn
 
 #### Catatan
 
-- Kemungkinan kecepatan (*speed*) kabel USB kurang
-- Perlu pinjam teman kabel USB 3.0 dan coba tes
+- Tidak Ada 😃
 
 ### 18 Nov 2025
 
