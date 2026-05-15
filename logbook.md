@@ -76,13 +76,17 @@ Profil Kami
 
 
 
-### 18 Nov 2025
+### 15 mei 2026
 
 #### Yang sudah dilakukan
+- menambah dashboard untuk output solar panel dan input beban
+- menambah komponen berupa ina219
 
 #### Masalah yang dihadapi
+- pembacaan tegangan dan daya pada dashboard terbaca 1 terus tidak sesuai nilai pada serial
 
 #### Yang akan dilakukan
+- mencoba mengubah source code
 
 #### Catatan
 
