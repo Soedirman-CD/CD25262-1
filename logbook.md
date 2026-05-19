@@ -90,15 +90,19 @@ Profil Kami
 
 #### Catatan
 
-### 25 Nov 2025
+### 19 Mei 2026
 
 #### Yang sudah dilakukan
+- Membetulkan kode untuk pembacaan tegangan dan daya pada dashboard agar dinamis dan sesuai dengan keluaran/masukan tegangan dan arus
 
 #### Masalah yang dihadapi
+- Belum ada
 
 #### Yang akan dilakukan
+- Membuat wadah untuk sistem powerbank portable
 
 #### Catatan
+- Tidak ada
 
 ### 02 Des 2025
 
