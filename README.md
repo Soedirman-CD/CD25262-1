@@ -1,6 +1,9 @@
 # CAPSTONE DESIGN 2026
 
 ### Kelompok 1 - Tiga Naga
+<img width="600" height="600" alt="targaryen-logo-png_seeklogo-482392" src="https://github.com/user-attachments/assets/4389de0b-2e28-4056-be53-b5c3de9bb708" />
+
+
 
 ### Members
 1. Daffa Arya Riovaldo - H1A023051
