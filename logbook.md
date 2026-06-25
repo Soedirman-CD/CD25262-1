@@ -124,7 +124,7 @@ Anggota
 
 #### Yang sudah dilakukan
 
-- Melakukan pengetesan masing-masing komponen dan sistem untuk memastikan seluruh bagian dapat bekerja sesuai requirement
+- Melakukan pengetesan sistem untuk memastikan seluruh bagian dapat bekerja sesuai requirement
 
 #### Masalah yang dihadapi
 
@@ -146,6 +146,15 @@ Anggota
 - Melakukan pengetesan keseluruhan sistem (end-to-end testing)
 - Prototype Powerwall berhasil beroperasi sesuai perancangan, meliputi proses penangkapan energi dari panel surya, penyimpanan energi pada baterai, serta pendistribusian energi ke beban.
 - Dokumentasi pengujian menggunakan gambar berikut:
+**Pengujian Monitoring Solar Panel pada Blynk**
+
+![Percobaan Blynk Solar Panel](Assets/Percobaan%20Blynk%20Solar%20Panel.jpeg)
+
+**Pengujian Proses Pengisian Daya pada Blynk**
+
+![Percobaan Ngecas Blynk](Assets/Percobaan%20Ngecas%20Blynk.jpeg)
+
+**Pengujian Prototype Secara Keseluruhan**
 
 ![Prototype Testing](Assets/Prototype_Testing.jpeg)
 
