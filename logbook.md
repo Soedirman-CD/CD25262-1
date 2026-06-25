@@ -104,23 +104,62 @@ Profil Kami
 #### Catatan
 - Tidak ada
 
-### 20 Mei 2026
-
-#### Yang sudah dilakukan
-- 
-
-#### Masalah yang dihadapi
-
-#### Yang akan dilakukan
-
-#### Catatan
-
-### 09 Des 2025
+### 25 Mei 2026
 
 #### Yang sudah dilakukan
 
+- Membuat wadah (housing) untuk Solar Panel
+- Menambah kapasitas maksimal panel surya menjadi 50 Wp
+
 #### Masalah yang dihadapi
+
+- Tidak ada
 
 #### Yang akan dilakukan
 
+- [ ] Melakukan pengetesan berbagai komponen berdasarkan ID-REQ 1 sampai 9
+
 #### Catatan
+
+- Tidak ada
+
+### 30 Mei 2026
+
+#### Yang sudah dilakukan
+
+- Melakukan pengetesan masing-masing komponen dan sistem untuk memastikan seluruh bagian dapat bekerja sesuai perancangan
+
+#### Masalah yang dihadapi
+
+- Tidak ada
+
+#### Yang akan dilakukan
+
+- [ ] Melakukan pengetesan keseluruhan sistem (integrated testing)
+
+#### Catatan
+
+- Solar Charge Controller (SCC) mengatur keluaran panel surya sesuai tegangan yang dibutuhkan oleh baterai, yaitu 12 V.
+- Saat baterai tidak terhubung ke SCC, panel surya dapat menghasilkan tegangan sekitar 18 V.
+
+### 31 Mei 2026
+
+#### Yang sudah dilakukan
+
+- Melakukan pengetesan keseluruhan sistem (end-to-end testing)
+- Prototype Powerwall berhasil beroperasi sesuai perancangan, meliputi proses penangkapan energi dari panel surya, penyimpanan energi pada baterai, serta pendistribusian energi ke beban.
+- Dokumentasi hasil pengujian menggunakan gambar berikut:
+
+![Prototype Testing](Assets/Prototype_Testing.jpeg)
+
+#### Masalah yang dihadapi
+
+- Tidak ada
+
+#### Yang akan dilakukan
+
+- [ ] Menyusun dokumentasi hasil pengujian dan evaluasi performa sistem
+
+#### Catatan
+
+- Tidak ada
