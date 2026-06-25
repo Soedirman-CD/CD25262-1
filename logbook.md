@@ -72,15 +72,12 @@ Anggota
 
 - Tidak Ada 😃
 
-Profil Kami
-
-
 
 ### 15 mei 2026
 
 #### Yang sudah dilakukan
 - menambah dashboard untuk output solar panel dan input beban
-- menambah komponen berupa ina219
+- menambah komponen berupa INA 219
 
 #### Masalah yang dihadapi
 - pembacaan tegangan dan daya pada dashboard terbaca 1 terus tidak sesuai nilai pada serial
@@ -127,7 +124,7 @@ Profil Kami
 
 #### Yang sudah dilakukan
 
-- Melakukan pengetesan masing-masing komponen dan sistem untuk memastikan seluruh bagian dapat bekerja sesuai perancangan
+- Melakukan pengetesan masing-masing komponen dan sistem untuk memastikan seluruh bagian dapat bekerja sesuai requirement
 
 #### Masalah yang dihadapi
 
@@ -135,7 +132,7 @@ Profil Kami
 
 #### Yang akan dilakukan
 
-- [ ] Melakukan pengetesan keseluruhan sistem (integrated testing)
+- [ ] Melakukan pengetesan keseluruhan komponen dan sistem  (integrated testing)
 
 #### Catatan
 
