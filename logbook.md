@@ -160,7 +160,8 @@ Anggota
 
 #### Masalah yang dihadapi
 
-- Tidak ada
+- Kondisi saat pengetesan Monitoring daya panel di blynk serta pengujian isi daya panel tidak mendapatkan sinar yang cukup sehingga tegangan yang ditampilkan hanya 10.7.
+- Saat pengujian prototype secara keseluruhan (gambar ketiga) tegangan panel terpantau maksimal di 12,1V.
 
 #### Yang akan dilakukan
 
