@@ -145,7 +145,7 @@ Anggota
 
 - Melakukan pengetesan keseluruhan sistem (end-to-end testing)
 - Prototype Powerwall berhasil beroperasi sesuai perancangan, meliputi proses penangkapan energi dari panel surya, penyimpanan energi pada baterai, serta pendistribusian energi ke beban.
-- Dokumentasi hasil pengujian menggunakan gambar berikut:
+- Dokumentasi pengujian menggunakan gambar berikut:
 
 ![Prototype Testing](Assets/Prototype_Testing.jpeg)
 
