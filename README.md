@@ -11,7 +11,7 @@
 3. Dimas Raihan Anhar - H1A023076
 
 ### Project Title
-<p align="center">Perancangan dan Implementasi Sistem Pengisian Daya Powerbank Menggunakan Energi Matahari</p>
+<p align="center">PERANCANGAN PROTOTYPE POWERWALL TERINTEGRASI PANEL SURYA DENGAN SISTEM MONITORING BERBASIS IOT</p>
 
 ### Project Description
 Proyek ini bertujuan untuk merancang dan mengimplementasikan sistem pengisian daya powerbank menggunakan sumber energi matahari sebagai energi terbarukan. Sistem dirancang agar mampu mengubah energi cahaya matahari menjadi energi listrik yang kemudian digunakan untuk mengisi baterai powerbank secara efisien dan aman.
